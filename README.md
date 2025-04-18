@@ -27,3 +27,13 @@ embedded vision applications.
 
 > Twilio: A cloud-based communication platform used to send automated pop-up alerts
 to the relevant authorities.
+
+RESULT
+
+The proposed deep learning-based system for stray dog detection and management has been
+successfully implemented using a YOLO-based object detection model. The model has been
+trained using pre-existing labelled datasets containing images of stray and pet dogs, ensuring
+an extensive learning process for accurate classification. During testing, the system
+demonstrated an 97% accuracy in detecting stray dogs, effectively distinguishing them from
+pet dogs.
+
