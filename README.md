@@ -29,8 +29,6 @@ embedded vision applications.
 to the relevant authorities.
 
 
-https://github.com/user-attachments/assets/fc51171b-4d4e-42bc-b4c4-162e9f060147
-
 
 RESULT
 
@@ -40,4 +38,10 @@ trained using pre-existing labelled datasets containing images of stray and pet 
 an extensive learning process for accurate classification. During testing, the system
 demonstrated an 97% accuracy in detecting stray dogs, effectively distinguishing them from
 pet dogs.
+
+
+
+
+https://github.com/user-attachments/assets/96564289-cf1d-4ac4-a655-8cce9fd7d15e
+
 
