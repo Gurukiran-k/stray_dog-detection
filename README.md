@@ -28,6 +28,10 @@ embedded vision applications.
 > Twilio: A cloud-based communication platform used to send automated pop-up alerts
 to the relevant authorities.
 
+
+https://github.com/user-attachments/assets/fc51171b-4d4e-42bc-b4c4-162e9f060147
+
+
 RESULT
 
 The proposed deep learning-based system for stray dog detection and management has been
