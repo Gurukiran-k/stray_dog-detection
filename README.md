@@ -1,4 +1,4 @@
-# Stray Dog Detection Using DeepLearning Techniques
+# Stray Dog Detection and Notification System Using DeepLearning Techniques
 
 INTRODUCTION
 
